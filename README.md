@@ -1,4 +1,4 @@
-# bar30_sensor_ros2
+# ms5837_node
 This repository is UW's Bar30 depth sensor ROS2 package
 
 ## Requirements
