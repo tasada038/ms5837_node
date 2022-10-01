@@ -20,13 +20,13 @@ cd ~/dev_ws/src
 git clone https://github.com/tasada038/ms5837_node.git
 ```
 
-Also, clone ms5837-python packages via bluerobotics, and copy ms5837 module
+Also, clone ms5837-python packages via bluerobotics, and copy ms5837 module.
 ```
 git clone https://github.com/bluerobotics/ms5837-python
 cp -a ms5837-python/ms5837 ms5837_node/ms5837_node/
 ```
 
-Please build after installing the library required for ms5837-python
+Please build after installing the library required for ms5837-python.
 
 ```
 cd..
